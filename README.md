@@ -8,7 +8,7 @@ Machine Learning, Time Series &amp; Survival Analysis. Develop working skills in
 | Sr. No | Course                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [Exploratory Data Analysis for Machine Learning](https://github.com/gantz25/IBM-Machine-Learning-Professional-Certificate/tree/main/01-Exploratory%20Data%20Analysis%20for%20Machine%20Learning/)|✅|
-| 02.     | [Supervised Machine Learning: Regression]()|✅| 
+| 02.     | [Supervised Machine Learning: Regression](https://github.com/gantz25/IBM-Machine-Learning-Professional-Certificate/tree/main/02-Supervised%20Machine%20Learning%20Regression)|✅| 
 | 03.     | [Supervised Machine Learning: Classification]()|✅|
 | 04.     | [Unsupervised Machine Learning]()|✅|
 | 05.     | [Deep Learning and Reinforcement Learning]()|✅| 
